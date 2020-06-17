@@ -30,4 +30,4 @@ Execute the _bh_ program by typing:
 
 Example:
 
-```$./bh 10000 100 0 3```
+```$./bh 10000 100 3```
